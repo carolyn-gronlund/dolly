@@ -4,3 +4,7 @@ exclude_lines =
     if TYPE_CHECKING:
     raise NotImplementedError
     if __name__ == "__main__":
+    YPE_CHECKING:
+    raise NotImplementedError
+    if __name__ == "__main__":
+[report] 
