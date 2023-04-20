@@ -2,8 +2,8 @@
 venv/
 .venv/
 .idea/
+.pytest_cache/
 .python-version
 __pycache__/
 htmlcov/
-.pytest_cache/
 .coverage
